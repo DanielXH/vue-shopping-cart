@@ -18,6 +18,6 @@ http://localhost:3000/cart.html
 ```
 
 ## 预览
-http://github.com/yourname/your-repository/raw/master/preview-screenshots/cart-screenshot.png
+![img-1](http://github.com/yourname/your-repository/raw/master/preview-screenshots/cart-screenshot.png)
 
-http://github.com/yourname/your-repository/raw/master/preview-screenshots/address-screenshot.png
+![img-2(]http://github.com/yourname/your-repository/raw/master/preview-screenshots/address-screenshot.png)
