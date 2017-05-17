@@ -18,6 +18,8 @@ http://localhost:3000/cart.html
 ```
 
 ## 预览
+cart.html
 ![image](https://github.com/danielXH/vue-shopping-cart/raw/master/preview-screenshots/cart-screenshot.png)
 
+address.html
 ![image](https://github.com/danielXH/vue-shopping-cart/raw/master/preview-screenshots/address-screenshot.png)
